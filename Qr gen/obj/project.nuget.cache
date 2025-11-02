@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "48FMKMTrhJc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucaw\\source\\repos\\Qr gen\\Qr gen\\Qr gen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucaw\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\lucaw\\.nuget\\packages\\qrcoder\\1.7.0\\qrcoder.1.7.0.nupkg.sha512",
+    "C:\\Users\\lucaw\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,19 @@
+C:\Users\lucaw\source\repos\Qr gen\Qr gen\obj\Debug\net8.0-windows\NeonQRGenerator.Form1.resources
+C:\Users\lucaw\source\repos\Qr gen\Qr gen\obj\Debug\net8.0-windows\Qr gen.csproj.GenerateResource.cache
+C:\Users\lucaw\source\repos\Qr gen\Qr gen\obj\Debug\net8.0-windows\Qr gen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucaw\source\repos\Qr gen\Qr gen\obj\Debug\net8.0-windows\Qr gen.AssemblyInfoInputs.cache
+C:\Users\lucaw\source\repos\Qr gen\Qr gen\obj\Debug\net8.0-windows\Qr gen.AssemblyInfo.cs
+C:\Users\lucaw\source\repos\Qr gen\Qr gen\obj\Debug\net8.0-windows\Qr gen.csproj.CoreCompileInputs.cache
+C:\Users\lucaw\source\repos\Qr gen\Qr gen\obj\Debug\net8.0-windows\Qr gen.csproj.AssemblyReference.cache
+C:\Users\lucaw\source\repos\Qr gen\Qr gen\bin\Debug\net8.0-windows\Qr gen.exe
+C:\Users\lucaw\source\repos\Qr gen\Qr gen\bin\Debug\net8.0-windows\Qr gen.deps.json
+C:\Users\lucaw\source\repos\Qr gen\Qr gen\bin\Debug\net8.0-windows\Qr gen.runtimeconfig.json
+C:\Users\lucaw\source\repos\Qr gen\Qr gen\bin\Debug\net8.0-windows\Qr gen.dll
+C:\Users\lucaw\source\repos\Qr gen\Qr gen\bin\Debug\net8.0-windows\Qr gen.pdb
+C:\Users\lucaw\source\repos\Qr gen\Qr gen\bin\Debug\net8.0-windows\QRCoder.dll
+C:\Users\lucaw\source\repos\Qr gen\Qr gen\obj\Debug\net8.0-windows\Qr gen.csproj.Up2Date
+C:\Users\lucaw\source\repos\Qr gen\Qr gen\obj\Debug\net8.0-windows\Qr gen.dll
+C:\Users\lucaw\source\repos\Qr gen\Qr gen\obj\Debug\net8.0-windows\refint\Qr gen.dll
+C:\Users\lucaw\source\repos\Qr gen\Qr gen\obj\Debug\net8.0-windows\Qr gen.pdb
+C:\Users\lucaw\source\repos\Qr gen\Qr gen\obj\Debug\net8.0-windows\Qr gen.genruntimeconfig.cache
+C:\Users\lucaw\source\repos\Qr gen\Qr gen\obj\Debug\net8.0-windows\ref\Qr gen.dll
